@@ -10,15 +10,7 @@
             "tipo": "PESSOA_FISICA",
             "identificacaoFiscal": "68639341249",
             "nome": "EDIVAN ASSUNCAO SALES",
-            "idAgenciaAtual": 7,
-            "idAgenciaOrigem": 7,
-            "tipoCadastro": "COMPLETO",
-            "cicloCadastral": "APROVADO",
             "status": "HABILITADO",
-            "dataInicioRelacionamento": "2006-11-23T00:00:00",
-            "dataNascimentoAbertura": "1981-02-12T00:00:00",
-            "dataVigencia": "2018-10-17T00:00:00",
-            "ppe": "NAO"
         }
     ]
 }
