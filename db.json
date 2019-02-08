@@ -2,9 +2,7 @@
     "data": [
         {
             "idPessoa": 8708312,
-            "tipo": "PESSOA_FISICA",
             "identificacaoFiscal": "68639341249",
-            "nome": "EDIVAN ASSUNCAO SALES",
             "status": "HABILITADO",
         }
     ]
