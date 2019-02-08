@@ -1,9 +1,4 @@
 {
-    "status": "OK",
-    "message": "Serviço processado com sucesso",
-    "validationMessages": [],
-    "dataLength": 1,
-    "additionalInformation": null,
     "data": [
         {
             "idPessoa": 8708312,
